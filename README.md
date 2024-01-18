@@ -1,2 +1,2 @@
 # DND Project
- Host my DND project.
+ This project will be based on the Basic Rules for 5e.
